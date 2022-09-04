@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="475968e3-5aa0-45fd-ac71-01d02b200af1" name="Changes" comment="First Commit - uploading all the past python files that I had created while learning how to code in python." />
+    <list default="true" id="475968e3-5aa0-45fd-ac71-01d02b200af1" name="Changes" comment="Uploading all the past python files that I had created while learning how to code in python.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amic.py" beforeDir="false" afterPath="$PROJECT_DIR$/amic.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662273780024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uploading all the past python files that I had created while learning how to code in python.">
+      <created>1662274668676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662274668676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,6 +66,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit - uploading all the past python files that I had created while learning how to code in python." />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit - uploading all the past python files that I had created while learning how to code in python." />
+    <MESSAGE value="Uploading all the past python files that I had created while learning how to code in python." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading all the past python files that I had created while learning how to code in python." />
   </component>
 </project>
