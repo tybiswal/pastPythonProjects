@@ -1,4 +1,4 @@
-'''
+"""
 n = 5
 
 array = []
@@ -18,7 +18,7 @@ for x in array:
 
 def is_leap(year):
     leap = False
-    
+
     return year % 4 == 0 and (year % 400 == 0 or year % 100 != 0)
 
 year = int(2100)
@@ -31,13 +31,13 @@ i = 1
 while i < n:
     print (i, sep='')
     i+=1
-'''
+"""
 
 x = 2
 y = 2
 z = 2
 n = 2
 
-big =[]
-small =[]
+big = []
+small = []
 i = 0

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="475968e3-5aa0-45fd-ac71-01d02b200af1" name="Changes" comment="Uploading all the past python files that I had created while learning how to code in python.">
+    <list default="true" id="475968e3-5aa0-45fd-ac71-01d02b200af1" name="Changes" comment="Copied the files to the projects directory folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amic.py" beforeDir="false" afterPath="$PROJECT_DIR$/amic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Files/cnc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Files/cnc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Files/codetests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Files/codetests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Files/dec-hex-conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Files/dec-hex-conv.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +19,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EIBvom80dcxXN9Fit2IwKjGKFn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +54,42 @@
       <option name="project" value="LOCAL" />
       <updated>1662274668676</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding Comments to files and Updating workspace.xml">
+      <created>1662274820636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662274820636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added README.md">
+      <created>1662274924632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662274924632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated README.md">
+      <created>1662274970655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662274970655</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created a projects directory folder">
+      <created>1662275068990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662275068990</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Copied the files to the projects directory folder">
+      <created>1662275095165</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662275095165</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +106,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit - uploading all the past python files that I had created while learning how to code in python." />
     <MESSAGE value="Uploading all the past python files that I had created while learning how to code in python." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploading all the past python files that I had created while learning how to code in python." />
+    <MESSAGE value="Adding Comments to files and Updating workspace.xml" />
+    <MESSAGE value="Added README.md" />
+    <MESSAGE value="Updated README.md" />
+    <MESSAGE value="Created a projects directory folder" />
+    <MESSAGE value="Copied the files to the projects directory folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copied the files to the projects directory folder" />
   </component>
 </project>
