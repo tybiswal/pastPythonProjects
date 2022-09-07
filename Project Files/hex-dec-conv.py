@@ -1,4 +1,4 @@
-#hex-dec converter
+# hex-dec converter
 
 hexEq = {
     "0": "0",
@@ -18,17 +18,21 @@ hexEq = {
     "E": "14",
     "F": "15"
 }
+
+
 def hex2dec(hexInput):
     hexInput = hexInput.upper()
-    code = [list(hexInput[0])+list(hexInput[1]), list(hexInput[2])+list(hexInput[3]), list(hexInput[4])+list(hexInput[5])]
+    code = [list(hexInput[0]) + list(hexInput[1]), list(hexInput[2]) + list(hexInput[3]),
+            list(hexInput[4]) + list(hexInput[5])]
     result = []
     for x in code:
         nsum = 0
-        a = (int(str(hexEq[x[0]])))*16
+        a = (int(str(hexEq[x[0]]))) * 16
         b = int(str(hexEq[x[1]]))
         nsum += a + b
-        result.append(a+b)
-    return print("\nThe RGB Code is as follows:\n"+str(list(result)))
+        result.append(a + b)
+    return print("\nThe RGB Code is as follows:\n" + str(list(result)))
+
 
 print("\n>>>     Hexadecimal to Decimal Converter     <<<\n")
 
